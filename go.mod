@@ -18,6 +18,7 @@ require (
 
 require (
 	github.com/aymanbagabas/go-udiff v0.4.0 // indirect
+	github.com/charmbracelet/bubbles v1.0.0 // indirect
 	github.com/charmbracelet/colorprofile v0.4.2 // indirect
 	github.com/charmbracelet/ultraviolet v0.0.0-20260205113103-524a6607adb8 // indirect
 	github.com/charmbracelet/x/term v0.2.2 // indirect

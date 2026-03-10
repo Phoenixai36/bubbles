@@ -1,0 +1,16 @@
+topic: Terminal user interface frameworks and components
+description: Building terminal-based applications with reusable UI components in Go
+keywords:
+- terminal user interface
+- TUI frameworks
+- Go GUI
+- command-line interfaces
+- terminal applications
+- text-based UI
+- interactive CLI
+- bubble tea
+seed_papers: []
+max_results: 30
+min_citations: 0
+since_year: 2012
+updated_at: '2026-03-10T02:19:01.960994'

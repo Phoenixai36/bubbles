@@ -1,8 +1,40 @@
 {
   "repo": "bubbles",
-  "exported_at": "2026-03-10T02:19:01.957358",
-  "count": 16,
+  "exported_at": "2026-03-14T09:21:25.421606",
+  "count": 25,
   "papers": [
+    {
+      "id": "https://openalex.org/W3105602061",
+      "doi": "10.1111/cgf.14189",
+      "title": "The State of the Art of Spatial Interfaces for 3D Visualization",
+      "authors": [
+        "Lonni Besançon",
+        "Anders Ynnerman",
+        "Daniel F. Keefe",
+        "Lingyun Yu",
+        "Tobias Isenberg"
+      ],
+      "year": 2021,
+      "venue": "Computer Graphics Forum",
+      "abstract": "Abstract We survey the state of art spatial interfaces for 3D visualization. Interaction techniques are crucial to data visualization processes and research community has been calling more on interaction years. Yet, papers focusing techniques, in particular purposes, not always published venues, sometimes making it challenging synthesize latest results. therefore introduce a taxonomy technique The is organized along two axes: primary source input one hand task they support other hand. Surveying allows us highlight specific challenges missed opportunities In particular, we call additional in: (1) controlling widgets help scientists better understand their data, (2) dissemination, which under‐explored yet show great promise helping museum science centers mission share recent knowledge, (3) developing new measures that move beyond traditional time errors metrics evaluating visualizations include interaction.",
+      "cited_by_count": 120,
+      "is_oa": true,
+      "url": "https://openalex.org/W3105602061",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.14189",
+      "concepts": [
+        "Visualization",
+        "Computer science",
+        "Data science",
+        "Human–computer interaction",
+        "Information visualization",
+        "Visual analytics"
+      ],
+      "topic": "Data Visualization and Analytics",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-14T09:21:25.370709",
+      "updated_at": "2026-03-14T09:21:25.370709"
+    },
     {
       "id": "https://openalex.org/W2160848194",
       "doi": "10.1145/2500467",
@@ -31,7 +63,7 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:43:52.330479",
-      "updated_at": "2026-03-10T02:19:01.922302"
+      "updated_at": "2026-03-14T09:21:25.374672"
     },
     {
       "id": "https://openalex.org/W1519077760",
@@ -59,7 +91,7 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:43:52.332379",
-      "updated_at": "2026-03-10T02:19:01.925685"
+      "updated_at": "2026-03-14T09:21:25.376969"
     },
     {
       "id": "https://openalex.org/W3116822804",
@@ -87,7 +119,7 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:43:52.334731",
-      "updated_at": "2026-03-10T02:19:01.927041"
+      "updated_at": "2026-03-14T09:21:25.380541"
     },
     {
       "id": "https://openalex.org/W4220661156",
@@ -115,7 +147,7 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:43:52.337535",
-      "updated_at": "2026-03-10T02:19:01.928469"
+      "updated_at": "2026-03-14T09:21:25.384041"
     },
     {
       "id": "https://openalex.org/W2524461242",
@@ -143,7 +175,7 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:43:52.339324",
-      "updated_at": "2026-03-10T02:19:01.930204"
+      "updated_at": "2026-03-14T09:21:25.385643"
     },
     {
       "id": "https://openalex.org/W2784802646",
@@ -172,7 +204,69 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:43:52.341358",
-      "updated_at": "2026-03-10T02:19:01.931979"
+      "updated_at": "2026-03-14T09:21:25.387979"
+    },
+    {
+      "id": "https://openalex.org/W4409211856",
+      "doi": "10.1002/cae.70029",
+      "title": "AABC: A Tool for Assessing Arduino Basic Coding Skills",
+      "authors": [
+        "Sokratis Tselegkaridis",
+        "Theodosios Sapounidis",
+        "Christos Tokatlidis",
+        "Sophia Rapti",
+        "Dimitrios K. Papakostas"
+      ],
+      "year": 2025,
+      "venue": "Computer Applications in Engineering Education",
+      "abstract": "ABSTRACT In recent years, coding has become a useful component of education at all levels, leading to the emergence various programmable devices and platforms, such as Arduino. These tools offer students opportunities enhance their skills through hands‐on experiences or graphical simulations. However, literature lacks comprehensive instrument for evaluating code via technologies. To address this gap, study introduces “Assessing Arduino Basics in Coding” (AABC) tool. This tool was validated refined with 151 university students, who completed three experimental exercises followed by coding‐related questions. Students were divided into two groups. The first group implemented experiments physical–tangible boards, while second used interfaces virtual environment. analysis questionnaire scores underwent four steps. Initially, Item Response Theory employed discard questions resulting unscaled scores. Subsequently, Exploratory Factor Analysis identified factors corresponding exercises. Additionally, Confirmatory confirmed questionnaire's structure, indicating high reliability (χ 2 [74] = 74.5, p 0.463, CFI 0.995, TLI 0.994, RMSEA 0.00612, SRMR 0.0625). Lastly, measurement invariance testing demonstrated that AABC is unaffected user interface, suggesting its usability regardless interface used. Overall, provides reliable method basic circuits, contributing advancements education.",
+      "cited_by_count": 1,
+      "is_oa": true,
+      "url": "https://openalex.org/W4409211856",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cae.70029",
+      "concepts": [
+        "Coding (social sciences)",
+        "Arduino",
+        "Computer science",
+        "Embedded system",
+        "Statistics",
+        "Mathematics"
+      ],
+      "topic": "Experimental Learning in Engineering",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-14T09:21:25.378625",
+      "updated_at": "2026-03-14T09:21:25.378625"
+    },
+    {
+      "id": "https://openalex.org/W4401339076",
+      "doi": "10.1007/978-3-031-45667-1_22",
+      "title": "Learning Mathematics with Digital Resources: Reclaiming the Cognitive Role of Physical Movement",
+      "authors": [
+        "Dor Abrahamson",
+        "Kimiko Ryokai",
+        "Justin Dimmel"
+      ],
+      "year": 2024,
+      "venue": "Springer international handbooks of education",
+      "abstract": null,
+      "cited_by_count": 1,
+      "is_oa": true,
+      "url": "https://openalex.org/W4401339076",
+      "pdf_url": "https://escholarship.org/content/qt58d6b79h/qt58d6b79h.pdf?t=sn8vne",
+      "concepts": [
+        "Movement (music)",
+        "Cognition",
+        "Mathematics education",
+        "Cognitive science",
+        "Computer science",
+        "Psychology"
+      ],
+      "topic": "Neuroscience, Education and Cognitive Function",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-14T09:21:25.382321",
+      "updated_at": "2026-03-14T09:21:25.382321"
     },
     {
       "id": "https://openalex.org/W3168464143",
@@ -199,7 +293,7 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:43:52.343477",
-      "updated_at": "2026-03-10T02:19:01.934838"
+      "updated_at": "2026-03-14T09:21:25.389959"
     },
     {
       "id": "https://openalex.org/W4315751217",
@@ -223,7 +317,7 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:43:52.345208",
-      "updated_at": "2026-03-10T02:19:01.936746"
+      "updated_at": "2026-03-14T09:21:25.391804"
     },
     {
       "id": "https://openalex.org/W2293645020",
@@ -251,7 +345,7 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:43:52.347032",
-      "updated_at": "2026-03-10T02:19:01.938176"
+      "updated_at": "2026-03-14T09:21:25.395613"
     },
     {
       "id": "https://openalex.org/W2610648825",
@@ -276,7 +370,7 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:43:52.349085",
-      "updated_at": "2026-03-10T02:19:01.940002"
+      "updated_at": "2026-03-14T09:21:25.397670"
     },
     {
       "id": "https://openalex.org/W4385949024",
@@ -304,7 +398,7 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:43:52.350687",
-      "updated_at": "2026-03-10T02:19:01.942266"
+      "updated_at": "2026-03-14T09:21:25.399369"
     },
     {
       "id": "https://openalex.org/W3186989813",
@@ -329,7 +423,7 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:43:52.353499",
-      "updated_at": "2026-03-10T02:19:01.944136"
+      "updated_at": "2026-03-14T09:21:25.401464"
     },
     {
       "id": "https://openalex.org/W2998298839",
@@ -357,7 +451,7 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:43:52.355867",
-      "updated_at": "2026-03-10T02:19:01.946471"
+      "updated_at": "2026-03-14T09:21:25.403262"
     },
     {
       "id": "https://openalex.org/W1709032508",
@@ -390,7 +484,7 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:43:52.358128",
-      "updated_at": "2026-03-10T02:19:01.949396"
+      "updated_at": "2026-03-14T09:21:25.406978"
     },
     {
       "id": "https://openalex.org/W2552191290",
@@ -418,7 +512,7 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:43:52.359649",
-      "updated_at": "2026-03-10T02:19:01.952061"
+      "updated_at": "2026-03-14T09:21:25.408995"
     },
     {
       "id": "https://openalex.org/W4394867718",
@@ -449,7 +543,177 @@
       "tags": [],
       "status": "unread",
       "added_at": "2026-03-10T01:43:52.361501",
-      "updated_at": "2026-03-10T02:19:01.954496"
+      "updated_at": "2026-03-14T09:21:25.418526"
+    },
+    {
+      "id": "https://openalex.org/W1497698295",
+      "doi": null,
+      "title": "Human interfaces to structured documents",
+      "authors": [
+        "Peter Flynn"
+      ],
+      "year": 2014,
+      "venue": "Cork Open Research Archive (University College Cork, Ireland)",
+      "abstract": "This research investigates some of the reasons for reported difficulties experienced by writers when using editing software designed structured documents. The overall objective was to determine if there are aspects interfaces which militate against optimal document construction who not computer experts, and suggest possible remedies. Studies were undertaken explore nature extent difficulties, identify components involved. A model a revised user interface tested, adaptations proposed may help overcome difficulties. methodology comprised: 1. identification description ‘structured document’ what distinguishes it from other types used on computers; 2. isolation requirements users such documents, set personas describe them; 3. evaluation work interaction between humans computers, specifically in creating documents; 4. estimation levels adoption available documents reactions existing it, with specific reference encountered it; 5. examination any mismatches expectations facilities provided software; 6. assessment physical or psychological factors experienced, (if any) changes might affect these. conclusions that seven twelve modifications tested could contribute an improvement usability, effectiveness, efficiency writing text (new selection; adding new sections lists; identifying key information typographically; creation cross-references bibliographic references; inclusion parts documents). remaining five seen as more applicable material than authoring (adding elements; splitting joining elements [before after]; moving block text).",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "url": "https://openalex.org/W1497698295",
+      "pdf_url": "http://hdl.handle.net/10468/1690",
+      "concepts": [
+        "Computer science",
+        "Information retrieval",
+        "Data science",
+        "World Wide Web"
+      ],
+      "topic": "Speech and dialogue systems",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-14T09:21:25.393697",
+      "updated_at": "2026-03-14T09:21:25.393697"
+    },
+    {
+      "id": "https://openalex.org/W7124228110",
+      "doi": null,
+      "title": "MinGLE: A Minimalist, Configurable, and Pedagogical Geant4 Application Template",
+      "authors": [
+        "Jing Liu"
+      ],
+      "year": 2026,
+      "venue": "ArXiv.org",
+      "abstract": "The Geant4 toolkit is the leading software for simulation of particle transport through matter, widely used in nuclear physics, high-energy and medical physics. However, initial learning curve new developers can be steep, often due to complexity experiment-specific nature many introductory examples. This paper introduces MinGLE (Mini Learning Example), a dedicated application template designed universal, flexible, educational starting point projects. achieves complete, functional kernel using fewer than 70 lines core C++ code. minimalism realized by leveraging contemporary features, including factory classes run management Text Geometry format detector definition. Furthermore, employs unique pedagogical structure, Git tags document incremental development eleven components, with each tagged version being fully compilable, executable, testable, providing clear, step-by-step resource.",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "url": "https://openalex.org/W7124228110",
+      "pdf_url": "https://arxiv.org/pdf/2601.08469",
+      "concepts": [
+        "Computer science",
+        "Kernel (algebra)",
+        "Point (geometry)",
+        "Minimalism (technical communication)",
+        "Core (optical fiber)",
+        "Software"
+      ],
+      "topic": "Scientific Computing and Data Management",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-14T09:21:25.405332",
+      "updated_at": "2026-03-14T09:21:25.405332"
+    },
+    {
+      "id": "https://openalex.org/W2534363484",
+      "doi": null,
+      "title": "5G-ENSURE - D3.1 5G-PPP security enablers technical roadmap (early vision)",
+      "authors": [
+        "Jouni Hiltunen",
+        "Olli Mämmelä",
+        "Jani Suomalainen",
+        "Pascal Bisson",
+        "Olivier Bettan",
+        "Linas Maknavičius"
+      ],
+      "year": 2016,
+      "venue": "ePrints Soton (University of Southampton)",
+      "abstract": "This document provides an early vision (at M4) of the 5G security and privacy enablers proposed by 5G-ENSURE project, that are planned to be developed through two major releases: v1.0 (R1) due at M11/Sep’16 v2.0 (R2) M22/Aug’17. It details Technical Roadmap for in terms scope their features, while providing insights will fully detailed update this deliverable (D3.5 M13/Nov’16) taking account progress achievements made time. Enablers envisioned here presented organized categories, which represent areas recognized as topmost priorities 5G-PPP &amp;amp; Security: Authentication, Authorization Accountability (AAA); Privacy; Trust; Security Monitoring Network management virtualization isolation. They also following a common template covering each key aspects: product vision, technology area, aspects, challenges, technical roadmap first release vs. next release.&lt;br/&gt;&lt;br/&gt;In AAA category main focus is on users’ authentication, authorization accounting, but contribution goes beyond incremental improvements one would expect next-generation network. The evolving network support unpredictable number devices boom Internet Things (IoT), whose these aim address. Moreover, target integrate authentication functions between satellite terrestrial systems.&lt;br/&gt;&lt;br/&gt;The objective 5G-Ensure Privacy identify advance user requirements provide mechanisms able prevent violations adopting proactive, privacy-by-design approach. For use case, mitigation (e.g., anonymity using temporary identity, access control mechanisms, new encryption system procedures, etc.) was investigated so satisfy requirements. enhance data protection proposing solutions several layers: layer, well application i.e., service.&lt;br/&gt;&lt;br/&gt;The Trust trust models address complex relationships m",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "url": "https://openalex.org/W2534363484",
+      "pdf_url": "https://eprints.soton.ac.uk/401847/1/401847.pdf",
+      "concepts": [
+        "Authentication (law)",
+        "Computer science",
+        "Computer security",
+        "Key (lock)",
+        "Process management",
+        "Business"
+      ],
+      "topic": "Satellite Communication Systems",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-14T09:21:25.410928",
+      "updated_at": "2026-03-14T09:21:25.410928"
+    },
+    {
+      "id": "https://openalex.org/W2112298932",
+      "doi": null,
+      "title": "Exploring Reality-Based User Interfaces for Collaborative Information Seeking",
+      "authors": [
+        "Mathias Heilig"
+      ],
+      "year": 2012,
+      "venue": "KOPS (University of Konstanz)",
+      "abstract": "Information seeking activities such as searching the web or browsing a media library are often considered to be solitary experiences. However, both theoretical and empirical research has demonstrated importance of collaborative during information process. Students working together complete assignments, friends looking for joint entertainment opportunities, family members planning vacation, colleagues&lt;br /&gt;conducting projects only few examples cooperative search.&lt;br /&gt;&lt;br /&gt;However, these not sufficiently supported by today’s systems they focus on individual users with PCs. Reality-based User Interfaces, their increased emphasis social, tangible, surface computing, have potential enhance this aspect seeking. By blending characteristics real-world interaction social qualities advantages virtual computer systems, interfaces increase possibilities collaboration. To date, this&lt;br /&gt;phenomenon been explored. This thesis is an analytical investigation improvements changes reality-based user can bring about in activities.&lt;br /&gt;To explore interfaces, realistic scenario had devised which could embedded. The Blended Library therefore developed context thesis. In vision, novel concepts support processes inside physical libraries future; thus represents appropriate ecosystem Three design cases that provide insight into how collaboration may influenced interfaces. Subsequently, two experimental studies were carried out attain more profound behavior people collaboratively, based type interface use.",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "url": "https://openalex.org/W2112298932",
+      "pdf_url": "http://nbn-resolving.de/urn:nbn:de:bsz:352-194269",
+      "concepts": [
+        "Human–computer interaction",
+        "Computer science",
+        "Augmented reality",
+        "Data science",
+        "World Wide Web"
+      ],
+      "topic": "Innovative Human-Technology Interaction",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-14T09:21:25.412892",
+      "updated_at": "2026-03-14T09:21:25.412892"
+    },
+    {
+      "id": "https://openalex.org/W7131118648",
+      "doi": "10.3390/electronics15040903",
+      "title": "Prompt-Driven Development with Claude Code: Developing a TUI Framework for the Ring Programming Language",
+      "authors": [
+        "Mahmoud Samir Fayed",
+        "Ahmed Samir Fayed"
+      ],
+      "year": 2026,
+      "venue": "Electronics",
+      "abstract": "Large language models (LLMs) are increasingly used in software development, yet their ability to generate and maintain large, multi-module systems through natural interaction remains insufficiently characterized. This study presents an empirical analysis of developing a 7420-line Terminal User Interface (TUI) framework for the Ring programming using prompt-driven workflow with Claude Code (Opus 4.5), employing iterative testing corrective feedback. The system was produced 107 prompts: 21 feature requests, 72 bug fix prompts, 9 prompts sharing information from documentation, 4 providing architectural guidance, 1 prompt dedicated generating documentation. Development progressed across five phases, Window Manager phase requiring most (35 prompts), followed by complex UI (25 prompts) control expansion (20 prompts). Bug-related covered redraw issues, event-handling faults, runtime errors, layout inconsistencies, while requests focused primarily on new widgets, window-manager capabilities, advanced components. Most were brief (mean ≈ 258 characters; median = 207 characters), reflecting highly which human role limited specifying requirements, validating behavior, issuing prompts—without writing any code manually. resulting contains 28 classes, 334 methods includes windowing subsystem, event-driven architecture, interactive hierarchical menus, grid tree components, tab controls, multi-window desktop environment. By combining quantitative qualitative assessment model this provides evidence that modern LLMs can preserve coherence iterations support construction libraries tools emerging languages, highlighting development as viable methodology within software-engineering practice.",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "url": "https://openalex.org/W7131118648",
+      "pdf_url": "https://www.mdpi.com/2079-9292/15/4/903/pdf?version=1771852708",
+      "concepts": [
+        "Computer science",
+        "Workflow",
+        "Programming language",
+        "Software engineering",
+        "Software development",
+        "Source code"
+      ],
+      "topic": "Model-Driven Software Engineering Techniques",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-14T09:21:25.414740",
+      "updated_at": "2026-03-14T09:21:25.414740"
+    },
+    {
+      "id": "https://openalex.org/W2498505553",
+      "doi": null,
+      "title": "AnyBoard spillplattform - Et JavaScript rammeverk for å støtte utviklingingen av digital brettspill",
+      "authors": [
+        "Tomas Fagerbekk"
+      ],
+      "year": 2015,
+      "venue": "Duo Research Archive (University of Oslo)",
+      "abstract": "Et JavaScript-basert rammeverk, AnyBoard har blitt utviklet og ligger nå fritt tilgjengelig for hvem som helst å benytte seg av. Rammeverket forenkler utviklingen av digitale brettspill ved gjøre Bluetooth kommunikasjon brikker til Cordova-baserte applikasjoner.",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "url": "https://openalex.org/W2498505553",
+      "pdf_url": "http://hdl.handle.net/11250/2380959",
+      "concepts": [
+        "JavaScript",
+        "Unobtrusive JavaScript",
+        "Computer science",
+        "Rich Internet application",
+        "World Wide Web"
+      ],
+      "topic": "Interactive and Immersive Displays",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-14T09:21:25.416909",
+      "updated_at": "2026-03-14T09:21:25.416909"
     }
   ]
 }
